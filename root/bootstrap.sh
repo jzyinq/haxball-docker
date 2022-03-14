@@ -50,6 +50,7 @@ let config = {
       },
       'hr/always-one-admin': {},
       'hr/pause': {
+        pauseWhenPlayerLeaves: false,
         maxPauseTimes: 0
       },
       'hr/kickban': {},
